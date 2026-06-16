@@ -1,3 +1,6 @@
+# [Link Page](https://killbytes.github.io/1_3_4_functional_testing/ "Go page")
+
+
 # 1. Успешная валидация email
 
 ## Тест-кейс: Валидный email с минимальной длиной локальной части
